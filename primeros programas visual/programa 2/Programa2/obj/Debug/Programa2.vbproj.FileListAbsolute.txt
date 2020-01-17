@@ -1,0 +1,32 @@
+C:\Users\eduardo.rodriguez\Desktop\Programa2\Programa2\obj\Debug\Programa2.vbprojAssemblyReference.cache
+C:\Users\eduardo.rodriguez\Desktop\Programa2\Programa2\obj\Debug\MainWindow.g.vb
+C:\Users\eduardo.rodriguez\Desktop\Programa2\Programa2\obj\Debug\Application.g.vb
+C:\Users\eduardo.rodriguez\Desktop\Programa2\Programa2\obj\Debug\Programa2_MarkupCompile.cache
+C:\Users\eduardo.rodriguez\Desktop\Programa2\Programa2\obj\Debug\Programa2_MarkupCompile.lref
+C:\Users\eduardo.rodriguez\Desktop\Programa2\Programa2\bin\Debug\Programa2.exe
+C:\Users\eduardo.rodriguez\Desktop\Programa2\Programa2\bin\Debug\Programa2.pdb
+C:\Users\eduardo.rodriguez\Desktop\Programa2\Programa2\bin\Debug\Programa2.xml
+C:\Users\eduardo.rodriguez\Desktop\Programa2\Programa2\obj\Debug\MainWindow.baml
+C:\Users\eduardo.rodriguez\Desktop\Programa2\Programa2\obj\Debug\Programa2.g.resources
+C:\Users\eduardo.rodriguez\Desktop\Programa2\Programa2\obj\Debug\Programa2.Resources.resources
+C:\Users\eduardo.rodriguez\Desktop\Programa2\Programa2\obj\Debug\Programa2.vbproj.GenerateResource.cache
+C:\Users\eduardo.rodriguez\Desktop\Programa2\Programa2\obj\Debug\Programa2.vbproj.CoreCompileInputs.cache
+C:\Users\eduardo.rodriguez\Desktop\Programa2\Programa2\obj\Debug\Programa2.exe
+C:\Users\eduardo.rodriguez\Desktop\Programa2\Programa2\obj\Debug\Programa2.xml
+C:\Users\eduardo.rodriguez\Desktop\Programa2\Programa2\obj\Debug\Programa2.pdb
+C:\Users\edu\Desktop\primeros programas visual\programa 2\Programa2\bin\Debug\Programa2.exe
+C:\Users\edu\Desktop\primeros programas visual\programa 2\Programa2\bin\Debug\Programa2.pdb
+C:\Users\edu\Desktop\primeros programas visual\programa 2\Programa2\bin\Debug\Programa2.xml
+C:\Users\edu\Desktop\primeros programas visual\programa 2\Programa2\obj\Debug\Programa2.vbprojAssemblyReference.cache
+C:\Users\edu\Desktop\primeros programas visual\programa 2\Programa2\obj\Debug\MainWindow.g.vb
+C:\Users\edu\Desktop\primeros programas visual\programa 2\Programa2\obj\Debug\Application.g.vb
+C:\Users\edu\Desktop\primeros programas visual\programa 2\Programa2\obj\Debug\Programa2_MarkupCompile.cache
+C:\Users\edu\Desktop\primeros programas visual\programa 2\Programa2\obj\Debug\Programa2_MarkupCompile.lref
+C:\Users\edu\Desktop\primeros programas visual\programa 2\Programa2\obj\Debug\MainWindow.baml
+C:\Users\edu\Desktop\primeros programas visual\programa 2\Programa2\obj\Debug\Programa2.g.resources
+C:\Users\edu\Desktop\primeros programas visual\programa 2\Programa2\obj\Debug\Programa2.Resources.resources
+C:\Users\edu\Desktop\primeros programas visual\programa 2\Programa2\obj\Debug\Programa2.vbproj.GenerateResource.cache
+C:\Users\edu\Desktop\primeros programas visual\programa 2\Programa2\obj\Debug\Programa2.vbproj.CoreCompileInputs.cache
+C:\Users\edu\Desktop\primeros programas visual\programa 2\Programa2\obj\Debug\Programa2.exe
+C:\Users\edu\Desktop\primeros programas visual\programa 2\Programa2\obj\Debug\Programa2.xml
+C:\Users\edu\Desktop\primeros programas visual\programa 2\Programa2\obj\Debug\Programa2.pdb

@@ -1,0 +1,219 @@
+
+.header h1{
+	margin: 0;
+	background:white;	
+	color: #51cefe;
+	text-align: center;
+}
+nav{
+	text-align: center;
+	margin-top: 0.7em;
+}
+nav li{
+	display: inline-block;
+	list-style: none;
+}
+nav li a{
+	text-decoration: none;
+	background: #f8f9fa;
+	color: #51cefe;
+	padding: 0.6em 0.3em;
+	display: block;
+}
+nav li a:hover {
+	text-decoration: none;
+	background: #51cefe;
+	color: #f8f9fa;
+}
+.nav li ul {
+	display:none;
+	position:absolute;
+	margin-left: -139px;
+    margin-top: 8px;
+    min-width: 140px;
+    z-index: 2;
+}
+.nav li ul li {
+	position:relative;
+	min-width: 140px;
+}
+.nav > li {
+	float:left;
+}
+
+section#contenido{
+	background: #fff;
+	padding: 1em ;
+	margin: 2em auto;
+	width: 80%;
+}
+.formRegister{
+	background: white;
+	border: "0";
+	border-radius: 19px 19px 19px 19px;
+	-moz-border-radius: 19px 19px 19px 19px;
+	-webkit-border-radius: 19px 19px 19px 19px;
+	padding:25px 20px 5px 20px;
+	margin-top: 150px;
+}
+.title h1{
+	color:#51cefe;
+}
+label{
+	color: #4c95c2;
+	font-weight: bold;
+}
+form{
+	margin-bottom: 15px;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #51cefe;
+	border-color: #51cefe;
+}
+.btn-primary:hover {
+    color: #51cefe;
+    background-color: white;
+    border-color: #51cefe;
+}
+a{
+	color:#4c95c2;
+	text-decoration:none;
+}
+.registerAdmin{
+	background: #f8f9fa;
+	border: "0";
+	/* border-radius: 19px 19px 19px 19px;
+	-moz-border-radius: 19px 19px 19px 19px;
+	-webkit-border-radius: 19px 19px 19px 19px; */
+	padding:20px 20px 5px 20px;
+	margin-top: 45px;
+}
+.registerAdmin .datosUsuario{
+	font-size: 25px;
+}
+.bodyAdmin{
+	background-color: #fff;
+	font-size: 1em;
+	font-family: arial; 
+	
+}
+.subtitle h2{
+	color:black;
+}
+#loading {
+    width: 100px;
+	display:none; 
+}
+.bc-white{
+	background-color: white;
+	margin-top: 25px;
+	padding-bottom: 10px;
+}
+.user{
+	background-color: #51cefe;
+	color: white;
+	text-align: center;
+	height: 110px;
+	padding-top: 50px;
+	border: "0";
+	border-radius: 10px 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px 10px;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	-webkit-box-shadow: 10px 10px 12px -6px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 12px -6px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 12px -6px rgba(0,0,0,0.75);
+	cursor: pointer;
+}
+.user:hover{
+	color: #51cefe;
+	background-color: white;
+	border: 1px solid #51cefe;
+	-webkit-box-shadow: 10px 10px 12px -6px white;
+	-moz-box-shadow: 10px 10px 12px -6px white;
+	box-shadow: 10px 10px 12px -6px white;
+
+}
+.userTodos{
+	margin-left: 345px;
+	background-color: #51cefe;
+	color: white;
+	text-align: center;
+	height: 110px;
+	padding-top: 50px;
+	border: "0";
+	border-radius: 10px 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px 10px;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	-webkit-box-shadow: 10px 10px 12px -6px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 12px -6px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 12px -6px rgba(0,0,0,0.75);
+	cursor: pointer;
+}
+.userTodos:hover{
+	color: #51cefe;
+	background-color: white;
+	border: 1px solid #51cefe;
+	-webkit-box-shadow: 10px 10px 12px -6px white;
+	-moz-box-shadow: 10px 10px 12px -6px white;
+	box-shadow: 10px 10px 12px -6px white;
+}
+.choose{
+	padding: 50px 0px;
+}
+.div-menu{
+	padding-top: 20px;
+}
+.icon{
+	font-size: 30px;
+	color: #51cefe;
+}
+.iconAvatar{
+	font-size: 50px;
+	color: #51cefe;
+}
+.icon2{
+	font-size: 15px;
+	color: #51cefe;
+}
+.icon-red{
+	color:red;
+}
+.icon-md{
+	font-size: 25px;
+}
+.info{
+	font-size: 12px;
+	padding-top: 5px;
+}
+.info .icon{
+	font-size:15px;
+	padding-top: 12px;
+}
+.info span{
+	margin-left:-12px;
+}
+table{
+	border: 1px solid black;
+}
+.avatar {
+	vertical-align: middle;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	opacity: 0.3;
+  }
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 90%;
+	color: white;
+	text-align: left;
+ }
+ .formRegister .fotoHp{
+	float: right;
+ }
+ .registerAdmin .input-user-data{
+	 width: 650px;
+ }

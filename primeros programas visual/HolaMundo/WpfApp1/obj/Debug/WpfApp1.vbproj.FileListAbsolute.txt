@@ -1,0 +1,16 @@
+C:\Users\eduardo.rodriguez\Desktop\HolaMundo\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\eduardo.rodriguez\Desktop\HolaMundo\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\eduardo.rodriguez\Desktop\HolaMundo\WpfApp1\bin\Debug\WpfApp1.xml
+C:\Users\eduardo.rodriguez\Desktop\HolaMundo\WpfApp1\obj\Debug\WpfApp1.vbprojAssemblyReference.cache
+C:\Users\eduardo.rodriguez\Desktop\HolaMundo\WpfApp1\obj\Debug\MainWindow.g.vb
+C:\Users\eduardo.rodriguez\Desktop\HolaMundo\WpfApp1\obj\Debug\Application.g.vb
+C:\Users\eduardo.rodriguez\Desktop\HolaMundo\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\eduardo.rodriguez\Desktop\HolaMundo\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\eduardo.rodriguez\Desktop\HolaMundo\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\eduardo.rodriguez\Desktop\HolaMundo\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\eduardo.rodriguez\Desktop\HolaMundo\WpfApp1\obj\Debug\WpfApp1.Resources.resources
+C:\Users\eduardo.rodriguez\Desktop\HolaMundo\WpfApp1\obj\Debug\WpfApp1.vbproj.GenerateResource.cache
+C:\Users\eduardo.rodriguez\Desktop\HolaMundo\WpfApp1\obj\Debug\WpfApp1.vbproj.CoreCompileInputs.cache
+C:\Users\eduardo.rodriguez\Desktop\HolaMundo\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\eduardo.rodriguez\Desktop\HolaMundo\WpfApp1\obj\Debug\WpfApp1.xml
+C:\Users\eduardo.rodriguez\Desktop\HolaMundo\WpfApp1\obj\Debug\WpfApp1.pdb

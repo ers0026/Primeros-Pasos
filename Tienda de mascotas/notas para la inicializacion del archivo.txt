@@ -1,0 +1,9 @@
+Primero a la hora de realizar la ejecucion de la pagina:
+
+ abrimos cmd y vamos donde se encuentre la carpeta:
+  a continuacion ejecutamos los siguientes comandos: 
+   truffle deploy --reset
+   truffle network
+   npm run dev
+
+nos pedira la cuenta para iniciar sesion con metamask

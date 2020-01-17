@@ -1,0 +1,11 @@
+C:\Users\eduardo.rodriguez\Desktop\proyecto4\proyecto6\proyecto7\proyecto7\bin\Debug\proyecto7.exe
+C:\Users\eduardo.rodriguez\Desktop\proyecto4\proyecto6\proyecto7\proyecto7\bin\Debug\proyecto7.pdb
+C:\Users\eduardo.rodriguez\Desktop\proyecto4\proyecto6\proyecto7\proyecto7\bin\Debug\proyecto7.xml
+C:\Users\eduardo.rodriguez\Desktop\proyecto4\proyecto6\proyecto7\proyecto7\obj\Debug\proyecto7.vbprojAssemblyReference.cache
+C:\Users\eduardo.rodriguez\Desktop\proyecto4\proyecto6\proyecto7\proyecto7\obj\Debug\proyecto7.Form1.resources
+C:\Users\eduardo.rodriguez\Desktop\proyecto4\proyecto6\proyecto7\proyecto7\obj\Debug\proyecto7.Resources.resources
+C:\Users\eduardo.rodriguez\Desktop\proyecto4\proyecto6\proyecto7\proyecto7\obj\Debug\proyecto7.vbproj.GenerateResource.cache
+C:\Users\eduardo.rodriguez\Desktop\proyecto4\proyecto6\proyecto7\proyecto7\obj\Debug\proyecto7.vbproj.CoreCompileInputs.cache
+C:\Users\eduardo.rodriguez\Desktop\proyecto4\proyecto6\proyecto7\proyecto7\obj\Debug\proyecto7.exe
+C:\Users\eduardo.rodriguez\Desktop\proyecto4\proyecto6\proyecto7\proyecto7\obj\Debug\proyecto7.xml
+C:\Users\eduardo.rodriguez\Desktop\proyecto4\proyecto6\proyecto7\proyecto7\obj\Debug\proyecto7.pdb
